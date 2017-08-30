@@ -1,0 +1,28 @@
+{
+  "name": "react-template-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "dependencies": {
+    "angular-template": "https://github.com/skyne/react-template/tarball/master"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyne/react-template-loader.git"
+  },
+  "keywords": [
+    "react",
+    "template",
+    "loader",
+    "webpack"
+  ],
+  "author": "Skyne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyne/react-template-loader/issues"
+  },
+  "homepage": "https://github.com/skyne/react-template-loader#readme"
+}
